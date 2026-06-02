@@ -1,0 +1,16 @@
+# Data (download manually — see README)
+listings.csv.gz
+listings.csv
+neighbourhoods.geojson
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
