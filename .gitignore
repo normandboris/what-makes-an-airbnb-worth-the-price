@@ -1,0 +1,11 @@
+# Inside Airbnb inputs (download per README / AGENTS.md)
+listings.csv.gz
+neighbourhoods.geojson
+
+# Notebook execution artifacts
+airbnb_predictor_executed.ipynb
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
